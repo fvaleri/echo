@@ -1,0 +1,16 @@
+*.iml
+.DS_Store
+.idea
+.classpath
+.project
+.settings
+.vscode
+.factorypath
+bin
+build
+target
+activemq-data
+*.log.*
+*.class
+*.jar
+*.out
